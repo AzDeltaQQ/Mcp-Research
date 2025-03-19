@@ -52,6 +52,12 @@ To run the code examples, you'll need:
 - [Cursor Directory](https://cursor.directory/mcp)
 - [Smithery.ai](https://smithery.ai) - Registry of MCP servers
 
+Notable Mentions : 
+
+https://github.com/Jacck/mcp-reasoner
+
+Thanks for giving me the idea Jacck . 
+
 ## Conclusion
 
 This research package provides a comprehensive guide to implementing MCP servers for Cursor AI. By following the guidelines and examples, developers can create custom tools that enhance Cursor AI's capabilities for specific use cases.
